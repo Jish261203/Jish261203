@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-### GSSoC '24 Mentor | 7K+ Family @Linkedin | Mentor At @topmate.io | Building @CryptoMinds | MERN Stack Web Developer | Web 3.0 | Blockchain Developer | Career Counselor | Graphic Designer
+### Contributor @GSSOC'24 | DDU IT'25 | MERN Stack Web Developer 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open Source Contributor from **India** 🇮🇳<img src="https://github.com/Jish261203/Jish261203/blob/ed554e4ea2a63baa8c5e3f690bc85dca6b03eb16/assets/git1.gif" min-width="400px" max-width="400px" width="400px" align="right">
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm a **Student** and **Web Developer**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **Web Development** 
